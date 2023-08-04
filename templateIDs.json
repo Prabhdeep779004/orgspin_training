@@ -3,31 +3,43 @@
     "templateids": [
         {
             "TemplateName" : "SFI_ICL_HINS",
-            "TemplateID"  : "0TT3s000006RFZc"
+            "TemplateID"  : "0TT3s000005zOC2"
         },
         {
             "TemplateName" : "SFI_ICL_CME",
-            "TemplateID"  : "0TT1I000006m2VI"
+            "TemplateID"  : "0TT8Z000001iAh4"
+        },
+        {
+            "TemplateName" : "SFI_EAU_APPS",
+            "TemplateID"  : "0TT5c000004eqgP"
         },
         {
             "TemplateName" : "SFI_IPQC",
-            "TemplateID"  : "0TT1I000006m2VI"
+            "TemplateID"  : "0TT8Z000002vliA"
         },
         {
             "TemplateName" : "SFI_IPQ",
-            "TemplateID"  : "0TT1I000006m2VI"
+            "TemplateID"  : "0TT8Z000002vliA"
+        },
+        {
+            "TemplateName" : "SFI_IPQ_ILT",
+            "TemplateID"  : "0TT4w000002iz1e"
         },
         {
             "TemplateName" : "SFI_IOM",
-            "TemplateID"  : "0TT1I000006m2VI"
+            "TemplateID"  : "0TT8W0000072d7F"
+        },
+        {
+            "TemplateName" : "SFI_IOM_ADM",
+            "TemplateID"  : "0TT8W0000072d2J"
         },
         {
             "TemplateName" : "SFI_IQH",
-            "TemplateID"  : "0TT3s000006RFZc"
+            "TemplateID"  : "0TT3s000006RG7h"
         },
         {
             "TemplateName" : "SFI_IQI",
-            "TemplateID"  : "0TT3s000006RFZc"
+            "TemplateID"  : "0TT3s000006RG7h"
         },
         {
             "TemplateName" : "SFI_IPQ_ADM",
@@ -35,19 +47,19 @@
         },
         {
             "TemplateName" : "SFI_IPQ_DEV",
-            "TemplateID"  : "0TT1I000006m2VI"
+            "TemplateID"  : "0TT8Z000002vliA"
         },
         {
             "TemplateName" : "SFI_IOM_ADM",
             "TemplateID"  : "0TT1I000006m2VI"
         },
         {
-            "TemplateName" : "SFI_PAE",
-            "TemplateID"  : "0TT3s000006RF1c"
+            "TemplateName" : "SFI_IPE",
+            "TemplateID"  : "0TT3s000005rTOy"
         },
         {
             "TemplateName" : "SFI_DCG",
-            "TemplateID"  : "0TT1I000006m2VI"
+            "TemplateID"  : "0TT8W0000072d2J"
         },
         {
             "TemplateName" : "SFI_IPM",
@@ -58,13 +70,46 @@
             "TemplateID"  : "0TT1I000006m2VI"
         },
         {
+            "TemplateName" : "SFI_ICM_DEV",
+            "TemplateID"  : "0TT3s000005rTOo"
+        },
+        {
             "TemplateName" : "SFI_ICM",
-            "TemplateID"  : "0TT3s000006RFZc"
+            "TemplateID"  : "0TT3s000005rTG9"
         },
         {
             "TemplateName" : "SFI_OMS",
-            "TemplateID"  : "0TT5e000008nd3p"
+            "TemplateID"  : "0TT5e00000Da12D"
+        },
+          {
+            "TemplateName" : "SFI_RFI",
+            "TemplateID"  : "0TT3s0000063TqN"
+        },
+        {
+            "TemplateName" : "SFI_IQE",
+            "TemplateID"  : "0TT3s000006RG7h"
+        },
+        {
+            "TemplateName" : "SFI_ESM",
+            "TemplateID"  : "0TT5f00000BHFsn"
+        },
+        {
+            "TemplateName" : "SFI_IPQ_TH",
+            "TemplateID"  : "0TT2w00000W1QnN"
+        },
+        {
+            "TemplateName" : "SFI_CLM_CME",
+            "TemplateID"  : "0TT8W0000075q9I"
+        },
+        {
+            "TemplateName" : "SFI_CLM_HINS",
+            "TemplateID"  : "0TT3s000006K3lE"
         }
+        ,
+        {
+            "TemplateName" : "SFI_IQE_FSC",
+            "TemplateID"  : "0TT8c00000EhUAW"
+        } 
     ]
 }
 
